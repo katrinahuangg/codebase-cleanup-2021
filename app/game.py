@@ -41,7 +41,7 @@ elif u == "paper":
 elif u == "scissors":
     if c == "rock":
         print("Oh, the computer won. It's ok.")
-    elif ce == "paper":
+    elif c == "paper":
         print("Oh, you won! Nice job.")
     elif c == "scissors":
         print("Oh, it's a tie.")
